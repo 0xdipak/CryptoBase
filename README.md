@@ -2,13 +2,15 @@
 
 Hi, this is react js project. Some key points of project are :
 
-- React Js
+- react js
 - Tailwindcss for styling
-- Responsive
+- responsive
 - react-router-dom [v6]
 - login/signup with firebase
 - context api
 - axios
+- dark mode
+- search coin functionality
 - using realtime coin gecko api for fetching data.
 
 # Future Updates :
